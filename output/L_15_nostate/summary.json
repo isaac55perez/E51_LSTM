@@ -1,0 +1,9 @@
+{
+  "L": 15,
+  "best_epoch": 60,
+  "train_mse": 0.33698770465853156,
+  "test_mse": 0.3302854232629761,
+  "epochs_run": 60,
+  "runtime_sec": 27.650914430618286,
+  "reset_every_window": true
+}
